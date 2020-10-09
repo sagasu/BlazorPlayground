@@ -1,1 +1,3 @@
-# BlazorWebAssemblyPlayground
+# BlazorPlayground
+* Server
+* Web Assembly
